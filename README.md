@@ -4,7 +4,9 @@ This app utilizes the well known TodoMVC example code, coupled with a simple Spr
 
 ## Getting Started
 
-This project requires Java *8* (http://www.java.com/) and Maven (http://maven.apache.org/).
+This project requires Java *8* (http://www.java.com/) and Maven (http://maven.apache.org/).  
+
+***Note: It is important that you use Java 8 for this exercise.***
 
 1.) Clone the git repo to your local machine.
 
